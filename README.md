@@ -4,10 +4,10 @@ This program is a sample coin based coffee machine
 
 ## Description
 
-> As user prompt an entry between report, espresso, latte or cappucino, the program verifies if their are enough resources to make\n 
-the customer entry. if yes, user is prompted to insert coins. the coins are compared with the price of each item and return the\n
-item and coffee if operation sucessful or tell the user that the coins weren't enough if operation failed. The coffee machine turn off\n
-as soon as user press 'off'.
+> As user prompt an entry between report, espresso, latte or cappucino, the program verifies if their are enough resources to make 
+the customer entry. if yes, user is prompted to insert coins. the coins are compared with the price of each item and return the
+item and coffee if operation sucessful or tell the user that the coins weren't enough if operation failed. The coffee machine continue as 
+long as user don't press 'off'.
 
 ## Getting Started
 
@@ -55,5 +55,5 @@ Abdoul-hanane Gbadamassi @afroCoderHanane
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Lu CoffeMachine](https://github.com/matiassingers/awesome-readme)
-* [read_me raw](https://gist.githubusercontent.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc/raw/d59043abbb123089ad6602aba571121b71d91d7f/README-Template.md)
+* [Dr.Lu_CoffeeMachine](https://github.com/matiassingers/awesome-readme)
+* [README.md](https://gist.githubusercontent.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc/raw/d59043abbb123089ad6602aba571121b71d91d7f/README-Template.md)
